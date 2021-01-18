@@ -89,7 +89,7 @@
 
 (def cli-options
   [["-p" "--port PORT" "Port number"
-    :default 3000]
+    :default 3299]
    [nil "--config-path CONFIG_PATH" "files_sd path"
     :default "/etc/prometheus/files_sd"]
    ["-h" "--help"]])

@@ -1,0 +1,15 @@
+*.class
+*.jar
+/.lein-*
+/.nrepl-port
+/.repl
+/checkouts/
+/classes/
+/lib/
+/log/
+/out/
+/target/
+pom.xml
+pom.xml.asc
+/dev-target
+*.sw*
